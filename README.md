@@ -5,6 +5,7 @@ Components
 1. AWS S3: Stores raw e-commerce transaction data (CSV files).
 2. AWS Glue: Extracts, transforms, and loads (ETL) data from S3 into Redshift.
 3. AWS Redshift: Stores and analyzes the processed data for reporting.
+4. AWS IAM Permissions was added
 
 Terraform Configuration
 The Terraform configuration is organized into the following files:
